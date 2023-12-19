@@ -1,11 +1,29 @@
 {
     "alumnos": [
       {
-        "nombre_alumno": "Nicolas",
-        "carrera": "Informatica",
-        "asignatura": "Programacion",
+        "id":1,
+        "nombre_alumno": "Nicolás",
+        "carrera": "Informática",
+        "asignatura": "Programación",
+        "notas": [6,4,5],
+        "promedio_de_notas": 5
+      },
+      {
+        "id":1,
+        "nombre_alumno": "Juan",
+        "carrera": "Física",
+        "asignatura": "Matemáticas",
+        "notas": [6,4,5],
+        "promedio_de_notas": 5
+      },
+      {
+        "id":1,
+        "nombre_alumno": "María",
+        "carrera": "Medicina",
+        "asignatura": "Fisiología",
         "notas": [6,4,5],
         "promedio_de_notas": 5
       }
     ]
 }
+
