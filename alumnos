@@ -1,0 +1,11 @@
+{
+    "alumnos": [
+      {
+        "nombre_alumno": "Nicolas",
+        "carrera": "Informatica",
+        "asignatura": "Programacion",
+        "notas": [6,4,5],
+        "promedio_de_notas": 5
+      }
+    ]
+}
